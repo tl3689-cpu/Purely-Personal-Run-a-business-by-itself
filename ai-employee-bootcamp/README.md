@@ -6,7 +6,7 @@
 
 ## WHAT THIS PLUGIN IS
 
-One brain. Five executives. Real work, on a schedule.
+One brain. Seven executives. Real work, on a schedule.
 
 Install once. Your AI team runs on a schedule, drafting posts, finding prospects, briefing your morning, reporting your revenue, while you sleep.
 
@@ -32,6 +32,8 @@ Layer 4, The Executives
   /cro-weekly-prospects  → Sales (10 prospects, sequences, pipeline review)
   /coo-morning-brief     → Operations (calendar, inbox, tasks, content)
   /cfo-weekly-revenue    → Finance (revenue, pipeline, unpaid invoices)
+  /cio-systems-review    → Technology (stack, integrations, security, vendors)
+  /risk-officer-register → Risk (register, recovery answer, monthly retirement)
 
 Layer 5, The Skills (wired to executives)
   CMO skills:
@@ -88,6 +90,16 @@ Layer 6, Connectors
 **Runs:** Every Friday (6:00 PM)
 **Connectors used:** Notion · Gmail
 **Output:** HTML revenue dashboard
+
+### CIO, Technology
+**Runs:** On demand, or monthly (first Monday, 8:00 AM)
+**Reads:** Business Brain systems list, then confirms in conversation
+**Output:** HTML Systems & Security Review (estate table, top 3 findings, hygiene check)
+
+### Chief Risk Officer, Risk
+**Runs:** On demand, or monthly (last Friday, 4:00 PM)
+**Reads:** Business Brain + previous risk register (`risk-register.md`)
+**Output:** HTML Risk Register Review, plus one risk retired per month
 
 ---
 
@@ -154,11 +166,11 @@ Folder: [My Business Brain] or [GitHub repo]
 
 | Category | Skills |
 |----------|--------|
-| Executive layer | 5 (CEO, CMO, CRO, COO, CFO) |
+| Executive layer | 7 (CEO, CMO, CRO, COO, CFO, CIO, Chief Risk Officer) |
 | Content skills | 8 (caption writer, viral hook generator, content strategy, pillars, calendar, batch, repurposer, newsletter) |
 | Sales skills | 7 (prospector, outreach writer, closer, reactivator, deal tracker, call prep, DM writer) |
 | Build tools | 3 (matchmaker, tailor, build-your-own) |
-| **Total** | **23 skills** |
+| **Total** | **25 skills** |
 
 ---
 

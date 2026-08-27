@@ -1,8 +1,8 @@
 {
   "name": "ai-employee-bootcamp",
   "display_name": "AI Employee Bootcamp",
-  "version": "4.6.0",
-  "description": "Your complete AI employee team. One brain. Five executives. 23 skills across marketing, sales, operations, finance, content, outreach, and skill customisation, running on a schedule while you sleep. Reads your foundation documents from your Business Brain folder or GitHub repo. CMO drafts today's post in your voice. CRO builds 10 qualified prospects with personalised DM sequences powered by the Sell-by-Chat playbook. COO briefs your morning. CFO reports your revenue. Viral Hook Generator spins up 24 scroll-stopping hooks on demand. Matchmaker audits your skills against your documents. Tailor fits every skill to your exact ICP, voice, and offer. Every output is branded, animated HTML in your colors. by Daniel Paul, Purely Personal.",
+  "version": "4.7.0",
+  "description": "Your complete AI employee team. One brain. Seven executives. 25 skills across marketing, sales, operations, finance, technology, risk, content, outreach, and skill customisation, running on a schedule while you sleep. Reads your foundation documents from your Business Brain folder or GitHub repo. CMO drafts today's post in your voice. CRO builds 10 qualified prospects with personalised DM sequences powered by the Sell-by-Chat playbook. COO briefs your morning. CFO reports your revenue. CIO reviews your systems and security. Chief Risk Officer keeps your risk register honest and retires one risk a month. Viral Hook Generator spins up 24 scroll-stopping hooks on demand. Matchmaker audits your skills against your documents. Tailor fits every skill to your exact ICP, voice, and offer. Every output is branded, animated HTML in your colors. by Daniel Paul, Purely Personal.",
   "author": {
     "name": "Daniel Paul · Purely Personal"
   },
@@ -28,6 +28,10 @@
     "bootcamp",
     "post-variations",
     "framework-post",
-    "story-post"
+    "story-post",
+    "cio",
+    "risk",
+    "risk-register",
+    "systems-review"
   ]
 }
